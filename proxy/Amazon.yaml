@@ -9,7 +9,6 @@
 # TOTAL: 203
 payload:
   - DOMAIN-SUFFIX,a2z.com
-  - DOMAIN-SUFFIX,aboutamazon.cn
   - DOMAIN-SUFFIX,aboutamazon.co.uk
   - DOMAIN-SUFFIX,aboutamazon.com
   - DOMAIN-SUFFIX,aboutamazon.com.au
@@ -27,8 +26,6 @@ payload:
   - DOMAIN-SUFFIX,aiv-cdn.net
   - DOMAIN-SUFFIX,aiv-delivery.net
   - DOMAIN-SUFFIX,alexa.com
-  - DOMAIN-SUFFIX,alexafund.cn
-  - DOMAIN-SUFFIX,alexafund.com.cn
   - DOMAIN-SUFFIX,amaaozn.com
   - DOMAIN-SUFFIX,amazon
   - DOMAIN-SUFFIX,amazon-adsystem.com
@@ -38,7 +35,6 @@ payload:
   - DOMAIN-SUFFIX,amazon-launchpad.com
   - DOMAIN-SUFFIX,amazon.ae
   - DOMAIN-SUFFIX,amazon.ca
-  - DOMAIN-SUFFIX,amazon.cn
   - DOMAIN-SUFFIX,amazon.co.jp
   - DOMAIN-SUFFIX,amazon.co.uk
   - DOMAIN-SUFFIX,amazon.com
@@ -61,34 +57,18 @@ payload:
   - DOMAIN-SUFFIX,amazonaws-china.com
   - DOMAIN-SUFFIX,amazonaws.co.uk
   - DOMAIN-SUFFIX,amazonaws.com
-  - DOMAIN-SUFFIX,amazonaws.com.cn
   - DOMAIN-SUFFIX,amazonaws.tv
-  - DOMAIN-SUFFIX,amazonbusiness.cn
-  - DOMAIN-SUFFIX,amazonbusiness.com.cn
   - DOMAIN-SUFFIX,amazonbusiness.org
   - DOMAIN-SUFFIX,amazonbusinessblog.com
-  - DOMAIN-SUFFIX,amazonchoice.cn
-  - DOMAIN-SUFFIX,amazonchoice.com.cn
-  - DOMAIN-SUFFIX,amazonchoices.cn
-  - DOMAIN-SUFFIX,amazonchoices.com.cn
   - DOMAIN-SUFFIX,amazondevicesupport.com
   - DOMAIN-SUFFIX,amazonfctours.com
   - DOMAIN-SUFFIX,amazonianblog.com
   - DOMAIN-SUFFIX,amazonimages.com
-  - DOMAIN-SUFFIX,amazoninspire.cn
-  - DOMAIN-SUFFIX,amazoninspire.com.cn
-  - DOMAIN-SUFFIX,amazonlaunchpad.cn
   - DOMAIN-SUFFIX,amazonlaunchpad.com
-  - DOMAIN-SUFFIX,amazonlaunchpad.com.cn
-  - DOMAIN-SUFFIX,amazonlending.com.cn
   - DOMAIN-SUFFIX,amazonliterarypartnership.com
   - DOMAIN-SUFFIX,amazonlumberyard.wang
-  - DOMAIN-SUFFIX,amazonnow.cn
-  - DOMAIN-SUFFIX,amazonnow.com.cn
   - DOMAIN-SUFFIX,amazonpay.com
   - DOMAIN-SUFFIX,amazonpay.in
-  - DOMAIN-SUFFIX,amazonprimevideo.cn
-  - DOMAIN-SUFFIX,amazonprimevideo.com.cn
   - DOMAIN-SUFFIX,amazonprimevideos.com
   - DOMAIN-SUFFIX,amazonsdi.com
   - DOMAIN-SUFFIX,amazonstudiosguilds.com
@@ -99,16 +79,13 @@ payload:
   - DOMAIN-SUFFIX,amazonvideo.cc
   - DOMAIN-SUFFIX,amazonvideo.com
   - DOMAIN-SUFFIX,amazonvideodirect.com
-  - DOMAIN-SUFFIX,amazonworkdocs.cn
   - DOMAIN-SUFFIX,amazonworkdocs.com
-  - DOMAIN-SUFFIX,amazonworkdocs.com.cn
   - DOMAIN-SUFFIX,amplifyapp.com
   - DOMAIN-SUFFIX,amplifyframework.com
   - DOMAIN-SUFFIX,amzn.asia
   - DOMAIN-SUFFIX,amzn.com
   - DOMAIN-SUFFIX,amzn.to
   - DOMAIN-SUFFIX,amznl.com
-  - DOMAIN-SUFFIX,assoc-amazon.cn
   - DOMAIN-SUFFIX,associates-amazon.com
   - DOMAIN-SUFFIX,audible.com
   - DOMAIN-SUFFIX,avodmp4s3ww-a.akamaihd.net
@@ -143,7 +120,6 @@ payload:
   - DOMAIN-SUFFIX,imdb.com
   - DOMAIN-SUFFIX,imdb.to
   - DOMAIN-SUFFIX,kindle
-  - DOMAIN-SUFFIX,kindle.cn
   - DOMAIN-SUFFIX,kindle.co.jp
   - DOMAIN-SUFFIX,kindle.co.uk
   - DOMAIN-SUFFIX,kindle.com
@@ -153,9 +129,7 @@ payload:
   - DOMAIN-SUFFIX,kindle.in
   - DOMAIN-SUFFIX,kindle.it
   - DOMAIN-SUFFIX,kindle.jp
-  - DOMAIN-SUFFIX,kindleoasis.cn
   - DOMAIN-SUFFIX,kindleoasis.com
-  - DOMAIN-SUFFIX,kindleoasis.com.cn
   - DOMAIN-SUFFIX,kindleoasis.info
   - DOMAIN-SUFFIX,kindleoasis.jp
   - DOMAIN-SUFFIX,kindleoasis.org
@@ -166,8 +140,6 @@ payload:
   - DOMAIN-SUFFIX,media-amazon.com
   - DOMAIN-SUFFIX,media-imdb.com
   - DOMAIN-SUFFIX,prime-video.com
-  - DOMAIN-SUFFIX,primeday.cn
-  - DOMAIN-SUFFIX,primeday.com.cn
   - DOMAIN-SUFFIX,primeday.info
   - DOMAIN-SUFFIX,primevideo.cc
   - DOMAIN-SUFFIX,primevideo.com
@@ -190,9 +162,7 @@ payload:
   - DOMAIN-SUFFIX,xn--cckwcxetd
   - DOMAIN-SUFFIX,xn--jlq480n2rg
   - DOMAIN-SUFFIX,yamaxun
-  - DOMAIN-SUFFIX,yamaxun.cn
   - DOMAIN-SUFFIX,yamaxun.com
-  - DOMAIN-SUFFIX,z.cn
   - DOMAIN-SUFFIX,zappos
   - DOMAIN-KEYWORD,avoddashs
   - IP-CIDR,13.32.0.0/15
@@ -210,4 +180,3 @@ payload:
   - IP-CIDR,54.226.0.0/15
   - IP-CIDR,54.230.156.0/22
   - IP-CIDR,54.93.0.0/16
-  - PROCESS-NAME,com.amazon.avod.thirdpartyclient
